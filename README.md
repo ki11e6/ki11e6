@@ -33,7 +33,7 @@ Hi, I am a Fullstack developer with a background in Computer Science. Currently,
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" style="filter:invert(100%)" title="Handlebars" alt="Handlebars" width="36" height="36"/></a>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/></a>
 <a><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/></a>
 <a> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/></a>
