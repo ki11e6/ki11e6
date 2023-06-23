@@ -41,6 +41,10 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="Vscode" width="36" height="36"/></a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="36" height="36"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/postman.svg" title="postman" alt="postman" width="36" height="36"/></a>
+
+
+
 
 
 
