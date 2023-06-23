@@ -60,6 +60,9 @@ Hi, I am a Fullstack developer with a background in Computer Science. Currently,
 <!--
 <a href="https://github.com/ki11e6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+Thanks for visiting my profile! Let's connect and work together to build amazing things.
+
+<img src="https://komarev.com/ghpvc/?username=ki11e6&style=flat-square&color=blue" alt=""/>
 <!--
 **ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
