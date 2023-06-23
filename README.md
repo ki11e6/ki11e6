@@ -33,6 +33,7 @@ Hi, I am a Fullstack developer with a background in Computer Science. Currently,
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original-wordmark.svg" title="Handlebars" alt="Handlebars" width="40" height="40"/>&nbsp;
 </p>
 
 ### Socials
@@ -43,13 +44,17 @@ Hi, I am a Fullstack developer with a background in Computer Science. Currently,
 
 <b>My GitHub Stats</b>
 
+<!--
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ki11e6's GitHub stats" /></a>
+-->
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
+<!--
 <a href="https://github.com/ki11e6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 <!--
 **ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
