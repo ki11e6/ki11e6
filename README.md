@@ -72,6 +72,22 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <!--
 <a href="https://github.com/ki11e6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ki11e6&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-am-amal&theme=midnight-purple&hide_border=false)<br/>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=500&theme=midnight-purple&hide_border=false&order=2&private=true&private=true" height="250" alt="languages graph"  />
+</div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+
 Thanks for visiting my profile! Let's connect and work together to build amazing things.
 
 <img src="https://komarev.com/ghpvc/?username=ki11e6&style=flat-square&color=blue" alt=""/>
