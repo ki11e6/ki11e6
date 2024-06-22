@@ -7,7 +7,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 - 🌍  I'm based in Kerala, India
 - ✉️  You can contact me at [sharath.surendran.m@gmail.com](mailto:sharath.surendran.m@gmail.com)
 
-### <u>SKILLS</U>
+### Skills
 
 <p align="left">
 <!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a> -->
