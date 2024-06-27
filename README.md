@@ -27,6 +27,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="36" height="36" alt="React Query" /></a>
+<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="" /></a>
 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
