@@ -75,7 +75,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 -->
 
-### Socials
+## 🌐 Socials
 
 <p align="left"> 
 <a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
@@ -84,9 +84,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+## 🏅 Badges
 
-<b>My GitHub Stats</b>
+### 📊 My GitHub Stats
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ki11e6's GitHub stats" /></a>
 
@@ -102,9 +102,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ki11e6" alt="ki11e6" /></a> </p>
-
-Thanks for visiting my profile! Let's connect and work together to build amazing things.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark" alt="ki11e6" /></a> </p>
 
 <img src="https://komarev.com/ghpvc/?username=ki11e6&style=flat-square&color=blue" alt=""/>
 <!--
