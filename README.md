@@ -25,6 +25,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styledComponents" /></a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="36" height="36" alt="React Query" /></a>
 <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354262/react-router.svg" width="36" height="36" alt="" /></a>
@@ -40,11 +41,16 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="redis" /></a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" /></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original-wordmark.svg" width="36" height="36" alt="kubernetes" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="36" height="36"/></a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="36" height="36"/></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="36" height="36"/></a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" title="elasticsearch" alt="elasticsearch" width="36" height="36"/></a>
+
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-outline.svg" width="36" height="36" alt="jest"  /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="36" height="36" alt="vitest"  /></a>
+
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -53,9 +59,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="36" height="36"/></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="36" height="36"/></a>
 
-### Learning
 
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 
 <!--
  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
