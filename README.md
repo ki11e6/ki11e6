@@ -55,7 +55,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ### 🧪 Testing  
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jestjs/jest/main/website/static/img/jest-outline.svg" width="36" height="36" alt="jest"  /></a>
+<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg" width="36" height="36" alt="jest"  /></a>
 <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="36" height="36" alt="vitest"  /></a>
 
 ### 🛠️ Tools 
