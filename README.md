@@ -92,7 +92,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=9&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages" height="250" alt="languages graph"  /></a>
+<a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=20&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages" height="250" alt="languages graph"  /></a>
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
