@@ -68,6 +68,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="36" height="36"/></a>
 
 
+### 📘 Learning
+<a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="36" height="36"/></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="nest" alt="nest" width="36" height="36"/></a>
 
 <!--
  <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
