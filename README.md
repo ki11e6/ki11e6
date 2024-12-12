@@ -95,9 +95,8 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&layout=compact&langs_count=10)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=highcontrast)
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=20&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages" height="250" alt="languages graph"  /></a>
 
