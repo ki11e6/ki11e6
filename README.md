@@ -1,5 +1,5 @@
 # Hi 👋 My name is Sharath.S
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF" />
 ## FullStack Developer
 
 I am a Fullstack developer with a background in Computer Science. Currently, I am focusing on MERN (MongoDB, Express.js, React.js, Node.js) and I am also interested in Blockchain technology for building secure applications.
@@ -115,8 +115,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
-## ✨ GIF for a Lively Feel
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF" />
+
 
 
 <!--
