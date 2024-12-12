@@ -15,8 +15,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ## 🛠️ Skills and Tools
 
 <p align="left">
-<!-- <a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="" /></a> -->
- 
+
 ###  🧑‍💻 Languages  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -97,18 +96,13 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ki11e6&theme=catppuccin-macchiato&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=20&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages" height="250" alt="languages graph"  /></a>
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
-<!--
-
-<a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ki11e6's GitHub stats" /></a>
-
-<a href="https://github.com/ki11e6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
+![Snake animation](https://github.com/ki11e6/ki11e6/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 
@@ -117,19 +111,3 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 
-![Snake animation](https://github.com/ki11e6/ki11e6/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
