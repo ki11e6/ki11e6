@@ -7,6 +7,10 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 - 🌍  I'm based in Kerala, India
 - ✉️  You can contact me at [sharath.surendran.m@gmail.com](mailto:sharath.surendran.m@gmail.com)
 
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&width=800&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94Robert+Collier)
+
+
 ## 🛠️ Skills and Tools
 
 <p align="left">
@@ -91,14 +95,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ### 📊 My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&layout=compact&langs_count=10)
-
-### Overall Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=highcontrast)
 
-### Contributions
-![GitHub Contributions Chart](https://github-readme-streak-stats.herokuapp.com/?user=ki11e6)
-
-<a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ki11e6's GitHub stats" /></a>
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -107,6 +106,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
 <!--
+
+<a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ki11e6's GitHub stats" /></a>
+
 <a href="https://github.com/ki11e6" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
 
@@ -115,6 +117,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark" alt="ki11e6" /></a> </p>
 
 <img src="https://komarev.com/ghpvc/?username=ki11e6&style=flat-square&color=blue" alt=""/>
+
+## 🎉 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 <!--
 **ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
