@@ -102,7 +102,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ki11e6/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+ ![Snake animation](https://github.com/ki11e6/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 </picture>
 
 ## 🏆 GitHub Trophies
