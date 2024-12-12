@@ -114,6 +114,11 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark" alt="ki11e6" /></a> </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
+
+## ✨ GIF for a Lively Feel
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF" />
+
+
 <!--
 **ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
