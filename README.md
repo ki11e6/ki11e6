@@ -117,7 +117,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 
-
+![Snake animation](https://github.com/ki11e6/ki11e6/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **ki11e6/ki11e6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
