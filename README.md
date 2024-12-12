@@ -96,13 +96,13 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ### 📊 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ki11e6&theme=catppuccin-macchiato&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ki11e6&theme=catppuccin-macchiato&date_format=M%20j%5B%2C%20Y%5D)
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=20&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages" height="250" alt="languages graph"  /></a>
 
 <a href="http://www.github.com/ki11e6"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
-![Snake animation](https://github.com/ki11e6/ki11e6/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/ki11e6/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 
