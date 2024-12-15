@@ -28,6 +28,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="tailwindCss" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styledComponents" /></a>
+<a href="hhttps://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" width="36" height="36" alt="sass/scss" /></a>
+
+master/icons/sass/sass-original.svg
 </p>
 
 ### 💻 Frontend
