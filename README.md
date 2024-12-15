@@ -1,4 +1,5 @@
 # Hi 👋 My name is Sharath.S
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Coding GIF" />
 
 ## 🚀 FullStack Developer
@@ -12,7 +13,8 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ## 🛠️ Skills and Tools
 
-###  🧑‍💻 Languages
+### 🧑‍💻 Languages
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -22,6 +24,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 </p>
 
 ### 🎨 Styling
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -29,11 +32,10 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="tailwindCss" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styledComponents" /></a>
 <a href="hhttps://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" width="36" height="36" alt="sass/scss" /></a>
-
-master/icons/sass/sass-original.svg
 </p>
 
 ### 💻 Frontend
+
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -43,6 +45,7 @@ master/icons/sass/sass-original.svg
 </p>
 
 ### 🛠️ Backend
+
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
@@ -50,6 +53,7 @@ master/icons/sass/sass-original.svg
 </p>
 
 ### 🗄️ Databases
+
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
@@ -58,8 +62,8 @@ master/icons/sass/sass-original.svg
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="redis" /></a>
 </p>
 
-
 ### 🏗️ Infrastructure
+
 <p align="left">
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="kubernetes" /></a>
@@ -70,6 +74,7 @@ master/icons/sass/sass-original.svg
 </p>
 
 ### 🧪 Testing
+
 <p align="left">
 <a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/jest/jest-plain.svg" width="36" height="36" alt="jest"  /></a>
@@ -77,6 +82,7 @@ master/icons/sass/sass-original.svg
 </p>
 
 ### 🛠️ Tools
+
 <p align="left">
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -88,6 +94,7 @@ master/icons/sass/sass-original.svg
 </p>
 
 ### 📘 Learning
+
 <p align="left">
 <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="36" height="36"/></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="nest" alt="nest" width="36" height="36"/></a>
@@ -106,6 +113,7 @@ master/icons/sass/sass-original.svg
 ## 🏅 Badges
 
 ### 📊 My GitHub Stats
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ki11e6&theme=catppuccin-macchiato&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
@@ -117,8 +125,7 @@ master/icons/sass/sass-original.svg
 ![Snake animation](https://github.com/ki11e6/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
+
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
-
-
