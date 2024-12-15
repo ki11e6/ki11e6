@@ -9,7 +9,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 - 🌍  I'm based in Kerala, India
 - ✉️  You can contact me at [sharath.surendran.m@gmail.com](mailto:sharath.surendran.m@gmail.com)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&width=1800&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94Robert+Collier)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=36BCF7&width=1200&lines=%22Success+is+the+sum+of+small+efforts%2C+repeated+day+in+and+day+out.%22+%E2%80%94Robert+Collier)
 
 ## 🛠️ Skills and Tools
 
@@ -30,8 +30,8 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="tailwindCss" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styledComponents" /></a>
-<a href="hhttps://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" width="36" height="36" alt="sass/scss" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styledComponents" style="background-color: #1A202C" /></a>
+<a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sass/sass-original.svg" width="36" height="36" alt="sass/scss" /></a>
 </p>
 
 ### 💻 Frontend
@@ -118,7 +118,9 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
 
-![Github Top-Lang](https://github-readme-stats.vercel.app/api/top-langs?username=ki11e6&locale=en&hide_title=false&layout=compact&langs_count=20&cardwidth=500&theme=dark&hide_border=true&order=2&private=true&private=true&custom_title=Top%20%Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6\&layout=compact&langs_count=8&theme=dark)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ki11e6\&layout=compact)
 
 ![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true)
 
