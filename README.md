@@ -120,8 +120,6 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6\&layout=compact&langs_count=8&theme=dark)
 
-<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ki11e6\&layout=compact) -->
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
