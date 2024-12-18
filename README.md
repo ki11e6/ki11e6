@@ -120,9 +120,6 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6\&layout=compact&langs_count=8&theme=dark)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true)
 
 ![Snake animation](https://github.com/ki11e6/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
@@ -132,3 +129,6 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
