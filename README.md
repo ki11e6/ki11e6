@@ -135,15 +135,15 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 215.7 kB Used in GitHub's Storage 
  > 
-> 🏆 331 Contributions in the Year 2024
+> 🏆 332 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -185,17 +185,17 @@ HTML                     30 mins             █░░░░░░░░░░�
 YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 6 mins       █████████████████░░░░░░░░   66.69 % 
-Cursor                   5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
+VS Code                  11 hrs 6 mins       █████████████████░░░░░░░░   66.68 % 
+Cursor                   5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.32 % 
 
 🐱‍💻 Projects: 
-Project                  12 hrs 24 mins      ███████████████████░░░░░░   74.54 % 
+cf-web-remix             12 hrs 25 mins      ███████████████████░░░░░░   74.55 % 
 Natours                  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ki11e6                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 Operating System: 
-Windows                  12 hrs 24 mins      ███████████████████░░░░░░   74.54 % 
-Linux                    4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Windows                  12 hrs 25 mins      ███████████████████░░░░░░   74.55 % 
+Linux                    4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -215,5 +215,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 03:59:52 UTC
+ Last Updated on 20/12/2024 08:27:34 UTC
 <!--END_SECTION:waka-->
