@@ -71,6 +71,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="36" height="36"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="36" height="36"/></a>
 <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="36" height="36"/></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" title="githubactions" alt="githubactions" width="36" height="36"/></a>
 </p>
 
 ### 🧪 Testing
