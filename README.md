@@ -136,7 +136,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
 
@@ -214,5 +214,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 05:12:01 UTC
+ Last Updated on 21/12/2024 18:43:04 UTC
 <!--END_SECTION:waka-->
