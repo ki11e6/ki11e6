@@ -19,7 +19,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
 
@@ -37,7 +37,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ### 💻 Frontend
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="36" height="36"/></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="36" height="36" alt="React Query" /></a>
@@ -47,7 +47,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ### 🛠️ Backend
 
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="36" height="36"/></a>
 </p>
@@ -56,7 +56,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="36" height="36"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="supabase" /></a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="redis" /></a>
@@ -70,7 +70,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="36" height="36"/></a>
 <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="36" height="36"/></a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" alt="rabbitmq" width="36" height="36"/></a>
-<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" title="elasticsearch" alt="elasticsearch" width="36" height="36"/></a>
+<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="36" height="36"/></a>
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/githubactions/githubactions-original.svg" title="githubactions" alt="githubactions" width="36" height="36"/></a>
 </p>
 
@@ -85,6 +85,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ### 🛠️ Tools
 
 <p align="left">
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -94,12 +95,38 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="36" height="36"/></a>
 </p>
 
+### 🐧 Linux
+
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/> </a>
+</p>
+
 ### 📘 Learning
 
 <p align="left">
 <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="36" height="36"/></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="nest" alt="nest" width="36" height="36"/></a>
 </p>
+
+<!--
+<p align="left">
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="36" height="36"/> </a>
+<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="36" height="36"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/> </a>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="36" height="36"/> </a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="36" height="36"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="36" height="36"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="36" height="36"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="36" height="36"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> </a>
+<a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="36" height="36"/> </a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="36" height="36"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="36" height="36"/> </a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="36" height="36"/> </a>
+</p>
+--->
 
 ## 🌐 Socials
 
@@ -140,72 +167,73 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 215.7 kB Used in GitHub's Storage 
- > 
+> 📦 215.7 kB Used in GitHub's Storage
+ >
+> 🏆 332 Contributions in the Year 2024
+ >
 > 💼 Opted to Hire
- > 
-> 📜 60 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 60 Public Repositories
+ >
+> 🔑 19 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-🌆 Daytime                440 commits         █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌃 Evening                332 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌙 Night                  261 commits         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+🌞 Morning                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
+🌆 Daytime                440 commits         █████████░░░░░░░░░░░░░░░░   37.01 %
+🌃 Evening                331 commits         ███████░░░░░░░░░░░░░░░░░░   27.84 %
+🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   21.87 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Wednesday                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Thursday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Saturday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Monday                   167 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 %
+Wednesday                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Thursday                 160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 %
+Friday                   195 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Saturday                 205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               19 hrs 27 mins      ███████████████████░░░░░░   75.95 % 
-SCSS                     3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+💬 Programming Languages:
+TypeScript               12 hrs 20 mins      ███████████████████░░░░░░   74.07 %
+SCSS                     2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 
-🔥 Editors: 
-VS Code                  13 hrs 9 mins       █████████████░░░░░░░░░░░░   51.34 % 
-Cursor                   12 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.66 % 
+🔥 Editors:
+VS Code                  11 hrs 6 mins       █████████████████░░░░░░░░   66.68 %
+Cursor                   5 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   33.32 %
 
-🐱‍💻 Projects: 
-cf-web-remix             19 hrs 20 mins      ███████████████████░░░░░░   75.47 % 
-Natours                  4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-ki11e6                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-typescript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+🐱‍💻 Projects:
+cf-web-remix             12 hrs 25 mins      ███████████████████░░░░░░   74.55 %
+Natours                  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 %
+ki11e6                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 
-💻 Operating System: 
-Windows                  19 hrs 20 mins      ███████████████████░░░░░░   75.47 % 
-Linux                    6 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+💻 Operating System:
+Windows                  12 hrs 25 mins      ███████████████████░░░░░░   74.55 %
+Linux                    4 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ████████████████░░░░░░░░░   63.24 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+JavaScript               43 repos            ████████████████░░░░░░░░░   63.24 %
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 %
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 
