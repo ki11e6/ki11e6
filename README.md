@@ -163,13 +163,13 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2050%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 255.3 kB Used in GitHub's Storage 
- > 
-> 🏆 2 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -177,6 +177,53 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
  > 
 > 🔑 19 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+🌆 Daytime                441 commits         █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌃 Evening                338 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌙 Night                  264 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Tuesday                  167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Thursday                 162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               11 hrs 16 mins      ███████████████████░░░░░░   77.85 % 
+Python                   58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 29 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+cf-web-remix             5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
+node                     2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+frontend                 1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+website                  1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Mask_RCNN-master         1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+
+💻 Operating System: 
+Windows                  14 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -194,5 +241,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:47:24 UTC
+ Last Updated on 10/01/2025 18:46:40 UTC
 <!--END_SECTION:waka-->
