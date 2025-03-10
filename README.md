@@ -171,6 +171,8 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 > 📦 255.4 kB Used in GitHub's Storage 
  > 
+> 🏆 4 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -241,5 +243,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2025 18:44:37 UTC
+ Last Updated on 10/03/2025 18:47:02 UTC
 <!--END_SECTION:waka-->
