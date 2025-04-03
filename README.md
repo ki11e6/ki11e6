@@ -163,15 +163,13 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 255.6 kB Used in GitHub's Storage 
- > 
-> 🏆 11 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -206,21 +204,20 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 hrs 44 mins      █████████████████████████   98.44 % 
-CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-INI                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+TypeScript               40 hrs 45 mins      █████████████████████████   99.85 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  40 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload-web              38 hrs 35 mins      ███████████████████████░░   93.25 % 
-dignizant-nextjs         2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+payload-web              38 hrs 39 mins      ████████████████████████░   94.70 % 
+dignizant-nextjs         2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 💻 Operating System: 
-Windows                  41 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -240,5 +237,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2025 18:49:19 UTC
+ Last Updated on 03/04/2025 18:48:59 UTC
 <!--END_SECTION:waka-->
