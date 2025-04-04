@@ -163,7 +163,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 ![Visitor Count](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -204,20 +204,21 @@ Sunday                   155 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               40 hrs 45 mins      █████████████████████████   99.85 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               41 hrs 29 mins      █████████████████████████   99.72 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  40 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  41 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-payload-web              38 hrs 39 mins      ████████████████████████░   94.70 % 
-dignizant-nextjs         2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+payload-web              39 hrs 29 mins      ████████████████████████░   94.89 % 
+dignizant-nextjs         2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 
 💻 Operating System: 
-Windows                  40 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,5 +238,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 03/04/2025 18:48:59 UTC
+ Last Updated on 04/04/2025 18:48:12 UTC
 <!--END_SECTION:waka-->
