@@ -51,6 +51,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" style="filter: invert(1)"/></a>
 <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="36" height="36" style="filter: invert(1)"/></a>
 <a href="https://payloadcms.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/payloadcms.svg" title="PayloadCMS" alt="PayloadCMS" width="36" height="36" style="filter: invert(1)"/></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="nest" alt="nest" width="36" height="36"/></a>
 </p>
 
 ### 🗄️ Databases
@@ -94,6 +95,8 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" title="postman" alt="postman" width="36" height="36" style="filter: invert(1)"/></a>
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="36" height="36"/></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="36" height="36"/></a>
+<a href="https://pnpm.io/" target="blank" rel="noreferrer"><img src="https://api.iconify.design/skill-icons:pnpm-dark.svg" title="pnpm" alt="pnpm" width="36" height="36"/></a>
+<a href="https://www.prisma.io/docs" target="blank" rel="noreferrer"><img src="https://api.iconify.design/skill-icons:prisma.svg" title="prisma" alt="prisma" width="36" height="36"/></a>
 </p>
 
 ### 🐧 Linux
@@ -107,7 +110,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 <p align="left">
 <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="36" height="36"style="filter: invert(1)"/></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" title="nest" alt="nest" width="36" height="36"/></a>
+
 </p>
 
 <!--
@@ -168,74 +171,74 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 256.0 kB Used in GitHub's Storage 
- > 
+> 📦 256.0 kB Used in GitHub's Storage
+ >
 > 🏆 19 Contributions in the Year 2025
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 61 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 61 Public Repositories
+ >
+> 🔑 22 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-🌆 Daytime                443 commits         █████████░░░░░░░░░░░░░░░░   36.07 % 
-🌃 Evening                358 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌙 Night                  267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌞 Morning                160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
+🌆 Daytime                443 commits         █████████░░░░░░░░░░░░░░░░   36.07 %
+🌃 Evening                358 commits         ███████░░░░░░░░░░░░░░░░░░   29.15 %
+🌙 Night                  267 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 %
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Tuesday                  169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Wednesday                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Thursday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Monday                   178 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Tuesday                  169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Wednesday                148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Thursday                 164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Friday                   196 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+Saturday                 218 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 %
+Sunday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               30 hrs 35 mins      █████████████████░░░░░░░░   68.24 % 
-Python                   5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-HTML                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-HTTP                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-JSON                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+💬 Programming Languages:
+TypeScript               30 hrs 35 mins      █████████████████░░░░░░░░   68.24 %
+Python                   5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+HTML                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+HTTP                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+JSON                     48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 
-🔥 Editors: 
-VS Code                  44 hrs 49 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  44 hrs 49 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-dignizant-payload-web    19 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.56 % 
-lession-one              8 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-wagtail_work             7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-test1                    7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-AI_agent                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+🐱‍💻 Projects:
+dignizant-payload-web    19 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.56 %
+lession-one              8 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 %
+wagtail_work             7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 %
+test1                    7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+AI_agent                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
 
-💻 Operating System: 
-Windows                  37 hrs 25 mins      █████████████████████░░░░   83.51 % 
-Linux                    7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+💻 Operating System:
+Windows                  37 hrs 25 mins      █████████████████████░░░░   83.51 %
+Linux                    7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               43 repos            ███████████████░░░░░░░░░░   61.43 % 
-TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               43 repos            ███████████████░░░░░░░░░░   61.43 %
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 ```
 
 
