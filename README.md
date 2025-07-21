@@ -169,13 +169,11 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 257.2 kB Used in GitHub's Storage 
- > 
-> 🏆 35 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -248,5 +246,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2025 18:52:09 UTC
+ Last Updated on 21/07/2025 18:56:58 UTC
 <!--END_SECTION:waka-->
