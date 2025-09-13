@@ -109,6 +109,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <p align="left">
 <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="36" height="36"style="filter: invert(1)"/></a>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="goloang" alt="golang" width="36" height="36"style="filter: invert(1)"/></a>
+  <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python" width="36" height="36"style="filter: invert(1)"/></a>
 </p>
 
 <!--
