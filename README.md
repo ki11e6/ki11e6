@@ -168,7 +168,7 @@ I am a Fullstack developer with a background in Computer Science. Currently, I a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -247,5 +247,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2025 18:51:08 UTC
+ Last Updated on 15/12/2025 18:57:46 UTC
 <!--END_SECTION:waka-->
