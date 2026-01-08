@@ -187,7 +187,7 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ![GitHub profile statistics showing commits, PRs, issues and contributions](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
 
-![Most used programming languages chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6\&layout=compact&langs_count=8&theme=dark)
+![Most used programming languages chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&layout=compact&langs_count=8&theme=dark)
 
 ![GitHub activity graph showing contribution history](https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true)
 
