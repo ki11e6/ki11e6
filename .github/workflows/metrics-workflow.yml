@@ -1,9 +1,9 @@
 name: GitHub Metrics
 
 on:
-  # Run daily at midnight UTC
+  # Run daily at 2 AM UTC (staggered to avoid rate limits)
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 2 * * *"
   # Allow manual trigger
   workflow_dispatch:
   # Run on push to main
@@ -11,19 +11,26 @@ on:
     branches:
       - main
 
+# Prevent concurrent runs
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
+
     steps:
       # Isometric Calendar - Stunning 3D commit visualization
       - name: Generate Isometric Calendar
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-isocalendar.svg
-          user: ki11e6
+          user: ${{ github.repository_owner }}
           base: ""
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
@@ -31,11 +38,11 @@ jobs:
 
       # Languages - Most used programming languages
       - name: Generate Languages Chart
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-languages.svg
-          user: ki11e6
+          user: ${{ github.repository_owner }}
           base: ""
           config_timezone: Asia/Kolkata
           plugin_languages: yes
@@ -48,11 +55,11 @@ jobs:
 
       # Coding Habits - Activity patterns
       - name: Generate Coding Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-habits.svg
-          user: ki11e6
+          user: ${{ github.repository_owner }}
           base: ""
           config_timezone: Asia/Kolkata
           plugin_habits: yes
