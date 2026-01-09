@@ -179,27 +179,23 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)" style="filter: invert(1)"/></a>
 </p>
 
-## 🏅 Badges
+## 📊 GitHub Metrics
 
-### 📊 My GitHub Stats
+### Contribution Calendar
 
-![GitHub contribution streak statistics for ki11e6](https://github-readme-streak-stats.herokuapp.com?user=ki11e6&theme=catppuccin-macchiato&date_format=M%20j%5B%2C%20Y%5D)
+![Isometric contribution calendar](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-isocalendar.svg)
 
-![GitHub profile statistics showing commits, PRs, issues and contributions](https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=radical)
+### Achievements
 
-![Most used programming languages chart](https://github-readme-stats.vercel.app/api/top-langs/?username=ki11e6&layout=compact&langs_count=8&theme=dark)
+![GitHub achievements](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-achievements.svg)
 
-![GitHub activity graph showing contribution history](https://github-readme-activity-graph.vercel.app/graph?username=ki11e6&bg_color=362c59&color=fb4bf0&line=13a0c3&point=73ff00&area=true&hide_border=true)
+### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ki11e6/ki11e6/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🏆 GitHub Trophies
-
-![GitHub profile achievement trophies](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark)
 
 ![Profile visitor count badge](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
 
