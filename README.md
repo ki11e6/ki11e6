@@ -190,7 +190,7 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ### Trophies
 
-![GitHub profile achievement trophies](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7)
+![GitHub profile achievement trophies](https://github-trophies.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 ### Activity
 
@@ -200,7 +200,7 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ki11e6/ki11e6/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Profile visitor count badge](https://komarev.com/ghpvc/?username=ki11e6&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C371%20hrs%2042%20mins-blue?style=flat)
