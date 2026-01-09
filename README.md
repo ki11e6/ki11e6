@@ -187,8 +187,8 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ki11e6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
 ### Languages & Coding Habits
