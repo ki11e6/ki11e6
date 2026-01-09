@@ -184,6 +184,20 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ## 📊 GitHub Metrics
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ki11e6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+### Languages & Coding Habits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-languages.svg" alt="Most used languages" height="200" />
+  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-habits.svg" alt="Coding habits" height="200" />
+</p>
+
 ### Contribution Calendar
 
 ![Isometric contribution calendar](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-isocalendar.svg)
@@ -191,6 +205,13 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ### Trophies
 
 ![GitHub profile achievement trophies](https://github-trophies.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)
+
+### LeetCode Stats
+
+<!-- Update the username below if your LeetCode username is different -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ki11e6?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ### Activity
 
