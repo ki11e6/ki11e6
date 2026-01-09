@@ -191,11 +191,10 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
-### Languages & Coding Habits
+### Languages
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-languages.svg" alt="Most used languages" height="200" />
-  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-habits.svg" alt="Coding habits" height="200" />
+  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-languages.svg" alt="Most used languages" />
 </p>
 
 ### Contribution Calendar
