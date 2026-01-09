@@ -185,9 +185,9 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ![Isometric contribution calendar](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-isocalendar.svg)
 
-### Achievements
+### Trophies
 
-![GitHub achievements](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-achievements.svg)
+![GitHub profile achievement trophies](https://github-profile-trophy.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7)
 
 ### Activity
 
