@@ -223,13 +223,11 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%204%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 273.5 kB Used in GitHub's Storage 
+> 📦 273.3 kB Used in GitHub's Storage 
  > 
 > 🏆 84 Contributions in the Year 2026
  > 
@@ -304,5 +302,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:58:53 UTC
+ Last Updated on 01/02/2026 19:02:51 UTC
 <!--END_SECTION:waka-->
