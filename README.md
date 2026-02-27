@@ -223,7 +223,7 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -231,11 +231,11 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 > 📦 274.4 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2026
+> 🏆 181 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 77 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 37 Private Repositories 
  > 
@@ -266,22 +266,23 @@ Sunday                   171 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               36 mins             █████████████░░░░░░░░░░░░   53.76 % 
-Markdown                 17 mins             ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TypeScript               32 mins             ████████████░░░░░░░░░░░░░   49.44 % 
+Markdown                 19 mins             ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rehm-ai-mono             1 hr 3 mins         ███████████████████████░░   92.91 % 
-gitacc                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+rehm-ai-mono             59 mins             ██████████████████████░░░   89.69 % 
+gitacc                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+claude-code-sharath-defau2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 Arch                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
+Linux                    1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -301,5 +302,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 19:27:43 UTC
+ Last Updated on 27/02/2026 19:12:01 UTC
 <!--END_SECTION:waka-->
