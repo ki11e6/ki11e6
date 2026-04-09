@@ -223,13 +223,13 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.2 kB Used in GitHub's Storage 
+> 📦 275.3 kB Used in GitHub's Storage 
  > 
 > 🏆 201 Contributions in the Year 2026
  > 
@@ -266,23 +266,23 @@ Sunday                   174 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-Other                    2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-Markdown                 1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Git Config               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+TypeScript               5 hrs 43 mins       █████████████░░░░░░░░░░░░   52.89 % 
+Other                    2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Markdown                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Git Config               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-shopfloorgpt-roadrunner  4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   38.48 % 
-murr-integration-platform3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.42 % 
-Unknown Project          1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-murr-customer-portal     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+shopfloorgpt-roadrunner  4 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.20 % 
+murr-integration-platform3 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   33.77 % 
+Unknown Project          1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+murr-customer-portal     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Linux                    10 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -302,5 +302,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 08/04/2026 19:49:36 UTC
+ Last Updated on 09/04/2026 19:48:36 UTC
 <!--END_SECTION:waka-->
