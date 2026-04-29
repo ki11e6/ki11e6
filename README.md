@@ -42,116 +42,51 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 <!-- Icons hosted locally for maintainability. To update sources, replace files in assets/icons/ -->
 <!-- Base URL: https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/ -->
+<!-- LAYOUT NOTE: Each row keeps all <a> tags on a single line inside <p> to prevent GitHub's markdown parser from inserting line breaks between icons. Do not reformat with newlines between <a> tags. -->
 
 ### ⭐ Core Stack (MERN + TypeScript)
 
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a>
-</p>
+<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mongodb.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a></p>
 
 ### 🧑‍💻 Languages
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></a>
-</p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/javascript.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></a></p>
 
 ### 🎨 Styling
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/html5.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/css3.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/styled-components.png" width="36" height="36" alt="Styled Components" /></a>
-<a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/sass.svg" width="36" height="36" alt="Sass" /></a>
-</p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/html5.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/css3.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" /></a> <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/styled-components.png" width="36" height="36" alt="Styled Components" /></a> <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/sass.svg" width="36" height="36" alt="Sass" /></a></p>
 
 ### 💻 Frontend
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/redux.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://tanstack.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/tanstack-query.svg" width="36" height="36" alt="React Query" /></a>
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/reactrouter.svg" width="36" height="36" alt="React Router"/></a>
-</p>
+<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/redux.svg" width="36" height="36" alt="Redux" /></a> <a href="https://tanstack.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/tanstack-query.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/tanstack-query.svg" width="36" height="36" alt="React Query"/></picture></a> <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/reactrouter.svg" width="36" height="36" alt="React Router"/></a></p>
 
 ### 🛠️ Backend
 
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a>
-<a href="https://socket.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/socketio.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/socketio.svg" title="Socket.IO" alt="Socket.IO" width="36" height="36"/></picture></a>
-<a href="https://payloadcms.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/payload.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/payload.svg" title="Payload CMS" alt="Payload CMS" width="36" height="36"/></picture></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nestjs.svg" title="NestJS" alt="NestJS" width="36" height="36"/></a>
-</p>
+<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a> <a href="https://socket.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/socketio.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/socketio.svg" title="Socket.IO" alt="Socket.IO" width="36" height="36"/></picture></a> <a href="https://payloadcms.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/payload.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/payload.svg" title="Payload CMS" alt="Payload CMS" width="36" height="36"/></picture></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nestjs.svg" title="NestJS" alt="NestJS" width="36" height="36"/></a></p>
 
 ### 🗄️ Databases
 
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/postgresql.svg" alt="PostgreSQL" width="36" height="36"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/firebase.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/supabase.svg" width="36" height="36" alt="Supabase" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/redis.svg" width="36" height="36" alt="Redis" /></a>
-</p>
+<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mongodb.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/postgresql.svg" alt="PostgreSQL" width="36" height="36"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/firebase.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/supabase.svg" width="36" height="36" alt="Supabase" /></a> <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/redis.svg" width="36" height="36" alt="Redis" /></a></p>
 
 ### 🏗️ Infrastructure
 
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/docker.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/aws.svg" title="AWS" alt="AWS" width="36" height="36"/></a>
-<a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nginx.svg" title="Nginx" alt="Nginx" width="36" height="36"/></a>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="36" height="36"/></a>
-<a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/elasticsearch.svg" alt="Elasticsearch" width="36" height="36"/></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/githubactions.svg" title="GitHub Actions" alt="GitHub Actions" width="36" height="36"/></a>
-</p>
+<p align="left"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/docker.svg" width="36" height="36" alt="Docker" /></a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/aws.svg" title="AWS" alt="AWS" width="36" height="36"/></a> <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nginx.svg" title="Nginx" alt="Nginx" width="36" height="36"/></a> <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rabbitmq.svg" title="RabbitMQ" alt="RabbitMQ" width="36" height="36"/></a> <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/elasticsearch.svg" alt="Elasticsearch" width="36" height="36"/></a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/githubactions.svg" title="GitHub Actions" alt="GitHub Actions" width="36" height="36"/></a></p>
 
 ### 🧪 Testing
 
-<p align="left">
-<a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mocha.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a>
-<a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/jest.svg" width="36" height="36" alt="Jest" /></a>
-<a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vitest.svg" width="36" height="36" alt="Vitest" /></a>
-</p>
+<p align="left"><a href="https://mochajs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mocha.svg" title="Mocha" alt="Mocha" width="36" height="36"/></a> <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/jest.svg" width="36" height="36" alt="Jest" /></a> <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vitest.svg" width="36" height="36" alt="Vitest" /></a></p>
 
 ### 🛠️ Tools
 
-<p align="left">
-<a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/electron.svg" alt="Electron" width="36" height="36"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/postman.svg" alt="Postman" width="36" height="36"/></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vite.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/git.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/figma.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vscode.svg" title="VS Code" alt="VS Code" width="36" height="36"/></a>
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/yarn.svg" title="Yarn" alt="Yarn" width="36" height="36"/></a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/npm.svg" title="npm" alt="npm" width="36" height="36"/></a>
-<a href="https://pnpm.io/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/pnpm.svg" title="pnpm" alt="pnpm" width="36" height="36"/></a>
-<a href="https://www.prisma.io/docs" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/prisma.svg" title="Prisma" alt="Prisma" width="36" height="36"/></a>
-</p>
+<p align="left"><a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/electron.svg" alt="Electron" width="36" height="36"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/postman.svg" alt="Postman" width="36" height="36"/></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vite.svg" width="36" height="36" alt="Vite" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/git.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/figma.svg" width="36" height="36" alt="Figma" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vscode.svg" title="VS Code" alt="VS Code" width="36" height="36"/></a> <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/yarn.svg" title="Yarn" alt="Yarn" width="36" height="36"/></a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/npm.svg" title="npm" alt="npm" width="36" height="36"/></a> <a href="https://pnpm.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/pnpm.svg" title="pnpm" alt="pnpm" width="36" height="36"/></a> <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/prisma.svg" title="Prisma" alt="Prisma" width="36" height="36"/></a></p>
 
 ### 🐧 Linux
 
-<p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/bash.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/bash.svg" alt="Bash" width="36" height="36"/></picture></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linux.svg" alt="Linux" width="36" height="36"/></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/ubuntu.svg" alt="Ubuntu" width="36" height="36"/></a>
-</p>
+<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/bash.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/bash.svg" alt="Bash" width="36" height="36"/></picture></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linux.svg" alt="Linux" width="36" height="36"/></a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/ubuntu.svg" alt="Ubuntu" width="36" height="36"/></a></p>
 
 ### 📘 Learning
 
-<p align="left">
-<a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/rust.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rust.svg" title="Rust" alt="Rust" width="36" height="36"/></picture></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/go.svg" title="Go" alt="Go" width="36" height="36"/></a>
-<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" title="Python" alt="Python" width="36" height="36"/></a>
-</p>
+<p align="left"><a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/rust.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rust.svg" title="Rust" alt="Rust" width="36" height="36"/></picture></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/go.svg" title="Go" alt="Go" width="36" height="36"/></a> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" title="Python" alt="Python" width="36" height="36"/></a></p>
 
 <!--
 <p align="left">
@@ -174,13 +109,7 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ## 🌐 Socials
 
-<p align="left">
-<a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/discord.svg" width="32" height="32" alt="Connect on Discord" /></a>
-<a href="https://www.facebook.com/sharath.surendran.37" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/facebook.svg" width="32" height="32" alt="Follow on Facebook" /></a>
-<a href="https://www.github.com/ki11e6" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/github.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/github.svg" width="32" height="32" alt="Follow on GitHub"/></picture></a>
-<a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linkedin.svg" width="32" height="32" alt="Connect on LinkedIn" /></a>
-<a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/twitter.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)"/></picture></a>
-</p>
+<p align="left"><a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/discord.svg" width="32" height="32" alt="Connect on Discord" /></a> <a href="https://www.facebook.com/sharath.surendran.37" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/facebook.svg" width="32" height="32" alt="Follow on Facebook" /></a> <a href="https://www.github.com/ki11e6" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/github.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/github.svg" width="32" height="32" alt="Follow on GitHub"/></picture></a> <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linkedin.svg" width="32" height="32" alt="Connect on LinkedIn" /></a> <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/twitter.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)"/></picture></a></p>
 
 ## 📊 GitHub Metrics
 
@@ -282,6 +211,7 @@ murr-integration-platform2 hrs 6 mins        █████░░░░░░�
 Unknown Project          48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 cybersamurai             42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 shopfloorgpt-roadrunner  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
 
 💻 Operating System: 
 Linux                    10 hrs 13 mins      █████████████████████████   100.00 % 
@@ -306,3 +236,5 @@ Rust                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 28/04/2026 20:04:45 UTC
 <!--END_SECTION:waka-->
+</content>
+</invoke>
