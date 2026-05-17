@@ -152,8 +152,6 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C548%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -168,54 +166,6 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
  > 
 > 🔑 38 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                261 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-🌆 Daytime                600 commits         █████████░░░░░░░░░░░░░░░░   37.38 % 
-🌃 Evening                457 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-🌙 Night                  287 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   263 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Saturday                 268 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Sunday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               7 hrs 26 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-Markdown                 5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
-Other                    2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 24 mins      ████████████████████░░░░░   80.97 % 
-Unknown Editor           3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-
-🐱‍💻 Projects: 
-shopfloorgpt-roadrunner  7 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.51 % 
-murr-integration-platform6 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
-DSA-JavaScript           41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-murr-customer-portal     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-typescript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-
-💻 Operating System: 
-Linux                    16 hrs 33 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -233,7 +183,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:42:41 UTC
+ Last Updated on 17/05/2026 19:47:48 UTC
 <!--END_SECTION:waka-->
 </content>
 </invoke>
