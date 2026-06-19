@@ -124,6 +124,10 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 
 ## 🚀 Featured Projects
 
+### 🎯 [Resume JD Tailor — Multi-Agent (Google ADK)](https://github.com/ki11e6/resume-jd-tailor) · [Live Demo ↗](https://huggingface.co/spaces/Sharath32/resume-jd-tailor)
+Multi-agent service that tailors a resume to a job description **without fabricating experience** — a Google ADK pipeline (parallel + sequential agents, schema-enforced outputs) behind a FastAPI service with a PDF-upload web UI.
+`Python` · `Google ADK` · `Multi-Agent` · `FastAPI` · `Gemini` · `Pydantic`
+
 ### 🧠 [Multi-Agent Research Assistant — LangGraph Orchestration](https://github.com/ki11e6/langgraph-multi-agent)
 Multi-agent system that turns a single question into a researched report — four cooperating agents (Supervisor, Researcher, Writer, Reviewer) as nodes in a stateful `StateGraph`, with dynamic LLM-based routing, an iterative Writer–Reviewer refinement loop, and a provider-agnostic LLM layer (Groq, Gemini, OpenAI, Anthropic).
 `Python` · `LangGraph` · `LangChain` · `Pydantic v2` · `Docker`
