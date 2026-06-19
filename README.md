@@ -1,7 +1,5 @@
 # Hi 👋 I'm Sharath — Full-Stack AI Engineer
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Developer working at computer with code on multiple screens" style="max-width: 100%;" />
-
 ## Shipping Production AI Systems & Scalable Web Applications
 
 I'm a Full-Stack AI Engineer with **3.5+ years** building scalable web applications, now specializing in **production AI systems**. I design and ship AI-powered enterprise knowledge platforms for European clients — **RAG pipelines**, **LLM orchestration** with LangChain & LangGraph, and **multi-agent workflows** on a NestJS + Angular stack.
@@ -51,13 +49,9 @@ I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meanin
 **Retrieval & Search** — RAG Pipelines · Vector Embeddings · Semantic Search · Weaviate (Vector DB)
 **Models & Tooling** — OpenAI API · Anthropic Claude API · Prompt Engineering · SSE Streaming · Langfuse (Observability)
 
-### ⭐ Core Stack (MERN + TypeScript)
-
-<p align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mongodb.svg" width="36" height="36" alt="MongoDB" /></picture></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></picture></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></picture></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></picture></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a></p>
-
 ### 🧑‍💻 Languages
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/javascript.svg" width="36" height="36" alt="JavaScript" /></picture></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></picture></a></p>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/javascript.svg" width="36" height="36" alt="JavaScript" /></picture></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></picture></a> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" width="36" height="36" alt="Python" /></picture></a></p>
 
 ### 🎨 Styling
 
@@ -69,7 +63,7 @@ I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meanin
 
 ### 🛠️ Backend
 
-<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></picture></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a> <a href="https://socket.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/socketio.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/socketio.svg" title="Socket.IO" alt="Socket.IO" width="36" height="36"/></picture></a> <a href="https://payloadcms.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/payload.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/payload.svg" title="Payload CMS" alt="Payload CMS" width="36" height="36"/></picture></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nestjs.svg" title="NestJS" alt="NestJS" width="36" height="36"/></picture></a></p>
+<p align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nodejs.svg" alt="Node.js" width="36" height="36"/></picture></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/express.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/express.svg" width="36" height="36" alt="Express"/></picture></a> <a href="https://socket.io/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/socketio.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/socketio.svg" title="Socket.IO" alt="Socket.IO" width="36" height="36"/></picture></a> <a href="https://payloadcms.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/payload.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/payload.svg" title="Payload CMS" alt="Payload CMS" width="36" height="36"/></picture></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nestjs.svg" title="NestJS" alt="NestJS" width="36" height="36"/></picture></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/fastapi.svg" width="36" height="36" alt="FastAPI" /></picture></a></p>
 
 ### 🗄️ Databases
 
@@ -93,11 +87,11 @@ I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meanin
 
 ### 📘 Learning
 
-<p align="left"><a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/rust.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rust.svg" title="Rust" alt="Rust" width="36" height="36"/></picture></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/go.svg" title="Go" alt="Go" width="36" height="36"/></picture></a> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" title="Python" alt="Python" width="36" height="36"/></picture></a></p>
+<p align="left"><a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/rust.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rust.svg" title="Rust" alt="Rust" width="36" height="36"/></picture></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/go.svg" title="Go" alt="Go" width="36" height="36"/></picture></a></p>
 
 ### ➕ Also Working With
 
-<p align="left"><a href="https://angular.dev/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/angular.svg" width="36" height="36" alt="Angular" /></picture></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vuejs.svg" width="36" height="36" alt="Vue.js" /></picture></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/fastapi.svg" width="36" height="36" alt="FastAPI" /></picture></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/graphql.svg" width="36" height="36" alt="GraphQL" /></picture></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mysql.svg" width="36" height="36" alt="MySQL" /></picture></a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/azure.svg" width="36" height="36" alt="Azure" /></picture></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/terraform.svg" width="36" height="36" alt="Terraform" /></picture></a></p>
+<p align="left"><a href="https://angular.dev/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/angular.svg" width="36" height="36" alt="Angular" /></picture></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vuejs.svg" width="36" height="36" alt="Vue.js" /></picture></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/graphql.svg" width="36" height="36" alt="GraphQL" /></picture></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mysql.svg" width="36" height="36" alt="MySQL" /></picture></a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/azure.svg" width="36" height="36" alt="Azure" /></picture></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/terraform.svg" width="36" height="36" alt="Terraform" /></picture></a></p>
 
 <!--
 <p align="left">
@@ -153,19 +147,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
-### Languages
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-languages.svg" alt="Most used languages" />
-</p>
-
 ### Contribution Calendar
 
 ![Isometric contribution calendar](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-isocalendar.svg)
-
-### Trophies
-
-![GitHub profile achievement trophies](https://github-trophies.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 <!--
 ### LeetCode Stats
@@ -188,41 +172,6 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C672%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 282.5 kB Used in GitHub's Storage 
- > 
-> 🏆 355 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 88 Public Repositories 
- > 
-> 🔑 40 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                272 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-🌆 Daytime                618 commits         █████████░░░░░░░░░░░░░░░░   35.87 % 
-🌃 Evening                500 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-🌙 Night                  333 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Tuesday                  257 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Thursday                 216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   276 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Saturday                 288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Sunday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -238,36 +187,7 @@ SCSS                     1 hr 1 min          █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  20 hrs 12 mins      ███████████████████░░░░░░   75.56 % 
 Claude Code              6 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-
-🐱‍💻 Projects: 
-payload-portfolio        16 hrs 47 mins      ████████████████░░░░░░░░░   62.80 % 
-shopfloorgpt-roadrunner  2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-murr-integration-platform2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-tokanization             2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-cybersamurai             51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-
-💻 Operating System: 
-Linux                    26 hrs 44 mins      █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               46 repos            █████████████░░░░░░░░░░░░   50.55 % 
-TypeScript               19 repos            █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Shell                    6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Rust                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/bar_graph.png)
-
 
  Last Updated on 18/06/2026 21:06:00 UTC
 <!--END_SECTION:waka-->
-</content>
-</invoke>
