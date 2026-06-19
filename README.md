@@ -1,48 +1,55 @@
-# Hi 👋 I'm Sharath — Full Stack Specialist
+# Hi 👋 I'm Sharath — Full-Stack AI Engineer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" alt="Developer working at computer with code on multiple screens" style="max-width: 100%;" />
 
-## Building Production-Ready Web Applications
+## Shipping Production AI Systems & Scalable Web Applications
 
-I'm a Full Stack Developer who transforms ideas into scalable, user-focused applications. With expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js) and modern TypeScript ecosystems, I specialize in building end-to-end solutions — from intuitive frontends to robust backend architectures.
+I'm a Full-Stack AI Engineer with **3.5+ years** building scalable web applications, now specializing in **production AI systems**. I design and ship AI-powered enterprise knowledge platforms for European clients — **RAG pipelines**, **LLM orchestration** with LangChain & LangGraph, and **multi-agent workflows** on a NestJS + Angular stack.
 
-My journey started with a Computer Science foundation, evolved through hands-on production experience, and continues with exploration into systems programming (Rust, Go) and cloud-native infrastructure. I believe in writing clean, maintainable code that solves real problems.
+My foundation is the **MERN stack** and modern TypeScript ecosystems, evolved through production experience into LLM-driven architectures: vector search, agentic orchestration, and event-driven microservices. I write clean, maintainable code that solves real problems end to end.
 
 **What I bring to teams:**
-- Full-stack ownership from database design to deployment
-- Experience with modern tooling: Next.js, NestJS, Docker, Kubernetes
+- Production AI: RAG pipelines, LangGraph multi-agent orchestration, vector/semantic search (Weaviate)
+- Full-stack ownership from database design to Kubernetes deployment
+- Modern tooling across NestJS, Angular, Next.js, Docker, Azure & AWS
 - A pragmatic approach that balances speed with code quality
 
 ---
 
 ### 💼 Open to Opportunities
 
-I'm actively seeking **full-stack developer roles** where I can contribute to meaningful products and grow with a collaborative team.
+I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meaningful AI-powered products and grow with a collaborative team.
 
 <p>
 <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank"><picture><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></picture></a>
 <a href="mailto:sharath.surendran.m@gmail.com"><picture><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></picture></a>
 </p>
 
-📍 Based in Kerala, India | 🌐 Open to remote opportunities
+📍 Based in Thiruvananthapuram, Kerala, India | 🌐 Open to remote opportunities
 
 ---
 
 ### 🔭 Currently Working On
 
-- **AI Portfolio** — Building an intelligent portfolio platform with modern web technologies
-- **Exploring Rust & Go** — Expanding into systems programming for performance-critical applications
-- **Cloud Infrastructure** — Deepening Kubernetes and AWS deployment expertise
+- **AI Industrial Knowledge Platform** — Building an AI-powered enterprise platform (RAG + multi-agent) for a European client, on Angular, Vue.js & NestJS
+- **Production RAG pipelines** — Document ingestion, hierarchical chunking, vector embeddings & Weaviate semantic search across multiple tenants
+- **LangGraph multi-agent workflows** — Decorator-based plugin system for tool discovery and LLM-as-router sub-agent orchestration
 
 ---
 
-![Animated typing: Building full-stack solutions that scale](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=36BCF7&width=600&lines=Building+full-stack+solutions+that+scale;From+idea+to+production+%E2%80%94+end+to+end;MERN+%7C+TypeScript+%7C+Cloud+Native)
+![Animated typing: Building production AI systems that scale](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=36BCF7&width=600&lines=Building+production+AI+systems+that+scale;RAG+%7C+LangGraph+%7C+Multi-Agent+Orchestration;Full-Stack+%7C+TypeScript+%7C+Cloud+Native)
 
 ## 🛠️ Skills and Tools
 
 <!-- Icons hosted locally for maintainability. To update sources, replace files in assets/icons/ -->
 <!-- Base URL: https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/ -->
 <!-- LAYOUT NOTE: Each row keeps all <a> tags on a single line inside <p> to prevent GitHub's markdown parser from inserting line breaks between icons. Do not reformat with newlines between <a> tags. -->
+
+### 🤖 AI & LLM Engineering
+
+**Frameworks & Orchestration** — LangChain · LangGraph · Multi-Agent Orchestration · Agentic AI · Model Context Protocol (MCP)
+**Retrieval & Search** — RAG Pipelines · Vector Embeddings · Semantic Search · Weaviate (Vector DB)
+**Models & Tooling** — OpenAI API · Anthropic Claude API · Prompt Engineering · SSE Streaming · Langfuse (Observability)
 
 ### ⭐ Core Stack (MERN + TypeScript)
 
@@ -88,6 +95,10 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 <p align="left"><a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/rust.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/rust.svg" title="Rust" alt="Rust" width="36" height="36"/></picture></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/go.svg" title="Go" alt="Go" width="36" height="36"/></picture></a> <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" title="Python" alt="Python" width="36" height="36"/></picture></a></p>
 
+### ➕ Also Working With
+
+<p align="left"><a href="https://angular.dev/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/angular.svg" width="36" height="36" alt="Angular" /></picture></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/vuejs.svg" width="36" height="36" alt="Vue.js" /></picture></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/fastapi.svg" width="36" height="36" alt="FastAPI" /></picture></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/graphql.svg" width="36" height="36" alt="GraphQL" /></picture></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/mysql.svg" width="36" height="36" alt="MySQL" /></picture></a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/azure.svg" width="36" height="36" alt="Azure" /></picture></a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/terraform.svg" width="36" height="36" alt="Terraform" /></picture></a></p>
+
 <!--
 <p align="left">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="36" height="36"/> </a>
@@ -107,9 +118,31 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 </p>
 --->
 
+## 💼 Experience
+
+**Full-Stack AI Engineer** — German AI company *(industrial software)* · *Dec 2024 – Present*
+Building an AI-powered industrial knowledge platform — production RAG pipelines, LangGraph multi-agent workflows, and multi-tenant auth on Angular, Vue.js & NestJS.
+
+**MERN Developer** — Freelance / Self-Employed · *Nov 2022 – Nov 2024*
+Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes, RabbitMQ) on AWS; cut API latency ~60% with Redis caching and Bull job processing.
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Multi-Agent Research Assistant — LangGraph Orchestration](https://github.com/ki11e6/langgraph-multi-agent)
+Multi-agent system that turns a single question into a researched report — four cooperating agents (Supervisor, Researcher, Writer, Reviewer) as nodes in a stateful `StateGraph`, with dynamic LLM-based routing, an iterative Writer–Reviewer refinement loop, and a provider-agnostic LLM layer (Groq, Gemini, OpenAI, Anthropic).
+`Python` · `LangGraph` · `LangChain` · `Pydantic v2` · `Docker`
+
+### 📄 [PDF Chat Assistant — RAG with OCR & Visual Citations](https://github.com/ki11e6/pdf-chatbot-rag)
+Production-style RAG chatbot grounded in user PDFs (including scanned/image-only PDFs via Tesseract OCR), with **visual, verifiable citations** mapping each retrieved chunk back to bounding boxes on the source page. Semantic retrieval via Sentence-Transformers + FAISS with a TF-IDF fallback.
+`Python` · `LangChain` · `FAISS` · `Tesseract OCR` · `PyMuPDF` · `Streamlit`
+
+---
+
 ## 🌐 Socials
 
-<p align="left"><a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/discord.svg" width="32" height="32" alt="Connect on Discord" /></picture></a> <a href="https://www.facebook.com/sharath.surendran.37" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/facebook.svg" width="32" height="32" alt="Follow on Facebook" /></picture></a> <a href="https://www.github.com/ki11e6" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/github.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/github.svg" width="32" height="32" alt="Follow on GitHub"/></picture></a> <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linkedin.svg" width="32" height="32" alt="Connect on LinkedIn" /></picture></a> <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/twitter.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)"/></picture></a></p>
+<p align="left"><a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/discord.svg" width="32" height="32" alt="Connect on Discord" /></picture></a> <a href="https://www.facebook.com/sharath.surendran.37" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/facebook.svg" width="32" height="32" alt="Follow on Facebook" /></picture></a> <a href="https://www.github.com/ki11e6" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/github.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/github.svg" width="32" height="32" alt="Follow on GitHub"/></picture></a> <a href="https://huggingface.co/Sharath32" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/huggingface.svg" width="32" height="32" alt="Follow on Hugging Face" /></picture></a> <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linkedin.svg" width="32" height="32" alt="Connect on LinkedIn" /></picture></a> <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/twitter.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)"/></picture></a></p>
 
 ## 📊 GitHub Metrics
 
@@ -134,12 +167,13 @@ I'm actively seeking **full-stack developer roles** where I can contribute to me
 
 ![GitHub profile achievement trophies](https://github-trophies.vercel.app/?username=ki11e6&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)
 
+<!--
 ### LeetCode Stats
 
-<!-- Update the username below if your LeetCode username is different -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ki11e6?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </p>
+-->
 
 ### Activity
 
