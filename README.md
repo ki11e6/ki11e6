@@ -19,6 +19,7 @@ My foundation is the **MERN stack** and modern TypeScript ecosystems, evolved th
 I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meaningful AI-powered products and grow with a collaborative team.
 
 <p>
+<a href="https://sharaths.xyz" target="_blank"><picture><img src="https://img.shields.io/badge/Portfolio-sharaths.xyz-7C3AED?style=for-the-badge&logoColor=white" alt="My portfolio website" /></picture></a>
 <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank"><picture><img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></picture></a>
 <a href="mailto:sharath.surendran.m@gmail.com"><picture><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></picture></a>
 </p>
