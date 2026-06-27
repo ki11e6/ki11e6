@@ -183,17 +183,17 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 31 mins       ██████████████░░░░░░░░░░░   55.28 % 
-TypeScript               1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
+TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Other                    50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+JSON                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 26 mins       ███████████████████████░░   90.84 % 
-VS Code                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Claude Code              4 hrs 45 mins       ███████████████████████░░   91.48 % 
+VS Code                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 ```
 
 
- Last Updated on 26/06/2026 20:18:04 UTC
+ Last Updated on 27/06/2026 19:53:38 UTC
 <!--END_SECTION:waka-->
