@@ -175,7 +175,7 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C700%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,17 +183,17 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 10 hrs 42 mins      ███████████░░░░░░░░░░░░░░   42.53 % 
-TypeScript               7 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Python                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-Other                    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Markdown                 11 hrs              ███████████░░░░░░░░░░░░░░   45.98 % 
+TypeScript               7 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+Python                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 51 mins      ████████████████████░░░░░   78.92 % 
-VS Code                  5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Claude Code              19 hrs 31 mins      ████████████████████░░░░░   81.54 % 
+VS Code                  4 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
 ```
 
 
- Last Updated on 10/07/2026 19:59:27 UTC
+ Last Updated on 11/07/2026 19:42:17 UTC
 <!--END_SECTION:waka-->
