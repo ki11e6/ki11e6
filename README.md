@@ -175,7 +175,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C733%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-331%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -183,17 +185,43 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-QML                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Python                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Markdown                 1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Other                    1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+QML                      1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+YAML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 35 mins       █████████████████░░░░░░░░   69.12 % 
-VS Code                  2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Claude Code              5 hrs               █████████████████░░░░░░░░   66.67 % 
+VS Code                  2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.33 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 5 mins (94.55%)
+
+✍️ 1,424 lines written by AI, 30 lines written by hand (97.94% AI-written)
+
+🔤 103,112,604 Input Tokens, 409,453 Output Tokens
+
+💵 $163.96 Estimated AI Cost This Week
+
+🧠 30 AI Sessions, 144 AI Prompts
+
+Fable                    428 lines           ██████████████████████░░░   88.25 % 
+Opus                     29 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Sonnet                   28 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.94% of written lines came from AI
+📚 Verbose Prompter — average 8,067 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:44:21 UTC
+ Last Updated on 27/07/2026 20:05:15 UTC
 <!--END_SECTION:waka-->
