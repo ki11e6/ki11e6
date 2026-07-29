@@ -175,6 +175,53 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%2026%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 20:02:07 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-333%20hrs%2030%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+TypeScript               1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Other                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Python                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Text                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+
+🔥 Editors: 
+Claude Code              5 hrs 39 mins       █████████████████░░░░░░░░   69.04 % 
+VS Code                  2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.96 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 43 mins (94.28%)
+
+✍️ 2,193 lines written by AI, 31 lines written by hand (98.61% AI-written)
+
+🔤 173,919,456 Input Tokens, 588,819 Output Tokens
+
+💵 $749.32 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 139 AI Prompts
+
+Opus                     1,708 lines         ████████████████████░░░░░   78.93 % 
+Fable                    428 lines           █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Sonnet                   28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.61% of written lines came from AI
+📚 Verbose Prompter — average 7,782 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.14% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 19:53:02 UTC
 <!--END_SECTION:waka-->
