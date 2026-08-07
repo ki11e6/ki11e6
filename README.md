@@ -175,51 +175,6 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2041%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               3 hrs 26 mins       ████████████████░░░░░░░░░   65.55 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Python                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-
-🔥 Editors: 
-Claude Code              4 hrs 54 mins       ███████████████████████░░   93.50 % 
-VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 10 mins (98.66%)
-
-✍️ 4,036 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 222,006,048 Input Tokens, 592,051 Output Tokens
-
-💵 $1120.45 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 54 AI Prompts
-
-Opus                     4,016 lines         █████████████████████████   99.50 % 
-Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,416 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 05/08/2026 20:09:09 UTC
+ Last Updated on 07/08/2026 00:24:40 UTC
 <!--END_SECTION:waka-->
