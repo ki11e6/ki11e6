@@ -175,6 +175,51 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%203%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 00:24:40 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-337%20hrs%2041%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               1 hr 29 mins        █████████████░░░░░░░░░░░░   53.03 % 
+Other                    39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+Markdown                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+
+🔥 Editors: 
+Claude Code              2 hrs 28 mins       ██████████████████████░░░   88.08 % 
+VS Code                  20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 44 mins (97.5%)
+
+✍️ 1,444 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 57,379,998 Input Tokens, 248,688 Output Tokens
+
+💵 $288.74 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 32 AI Prompts
+
+Opus                     1,424 lines         █████████████████████████   98.61 % 
+Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,101 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 19:30:52 UTC
 <!--END_SECTION:waka-->
