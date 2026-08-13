@@ -185,38 +185,34 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 57 mins             ████████████████████░░░░░   80.55 % 
-Lua                      11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other                    1 min               █████████████████░░░░░░░░   67.68 % 
+Python                   0 secs              ████████░░░░░░░░░░░░░░░░░   32.32 % 
 
 🔥 Editors: 
-Claude Code              1 hr 10 mins        █████████████████████████   98.69 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Claude Code              1 min               █████████████████░░░░░░░░   67.68 % 
+VS Code                  0 secs              ████████░░░░░░░░░░░░░░░░░   32.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (99.34%)
+⏱ AI Coding Time: 2 mins (83.68%)
 
-✍️ 461 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 36,862,759 Input Tokens, 129,780 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $187.56 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 20 AI Prompts
-
-Opus                     736 lines           █████████████████████████   100.00 % 
+🧠 5 AI Sessions, 10 AI Prompts
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 16,441 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 29,716 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 19:38:16 UTC
+ Last Updated on 13/08/2026 19:34:30 UTC
 <!--END_SECTION:waka-->
