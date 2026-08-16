@@ -207,18 +207,18 @@ VS Code                  1 min               █░░░░░░░░░░�
 
 💵 $41.60 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 25 AI Prompts
+🧠 6 AI Sessions, 20 AI Prompts
 
 Opus                     1,091 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 9,965 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 3,519 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 18:56:48 UTC
+ Last Updated on 16/08/2026 18:56:30 UTC
 <!--END_SECTION:waka-->
