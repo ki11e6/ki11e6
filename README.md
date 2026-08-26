@@ -185,42 +185,42 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 7 hrs 20 mins       ██████████████░░░░░░░░░░░   56.36 % 
-Python                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Lua                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Markdown                 4 hrs 32 mins       █████████████░░░░░░░░░░░░   51.69 % 
+Lua                      1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Python                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 41 mins      ████████████████████████░   97.36 % 
-VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Claude Code              8 hrs 32 mins       ████████████████████████░   97.41 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 58 mins (99.61%)
+⏱ AI Coding Time: 8 hrs 43 mins (99.43%)
 
-✍️ 13,030 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,106 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,956,645 Input Tokens, 1,513,623 Output Tokens
+🔤 4,922,779 Input Tokens, 1,238,759 Output Tokens
 
-💵 $248.85 Estimated AI Cost This Week
+💵 $161.12 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 101 AI Prompts
+🧠 18 AI Sessions, 77 AI Prompts
 
-Opus                     10,268 lines        ███████████████████░░░░░░   76.90 % 
-Fable                    3,085 lines         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Opus                     7,604 lines         █████████████████████░░░░   83.20 % 
+Fable                    1,535 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,883 characters per prompt
+📚 Verbose Prompter — average 5,086 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.16% of changed lines were hand-edited
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 19:09:00 UTC
+ Last Updated on 26/08/2026 20:40:03 UTC
 <!--END_SECTION:waka-->
