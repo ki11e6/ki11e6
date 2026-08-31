@@ -175,9 +175,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,18 +185,40 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    16 mins             ████████████░░░░░░░░░░░░░   46.08 % 
+QML                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              21 mins             ███████████████░░░░░░░░░░   59.56 % 
+VS Code                  14 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 36 mins (100.0%)
+
+✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 91,595 Input Tokens, 42,421 Output Tokens
+
+💵 $10.16 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 12 AI Prompts
+
+Fable                    95 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,040 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:24:34 UTC
+ Last Updated on 31/08/2026 22:58:48 UTC
 <!--END_SECTION:waka-->
