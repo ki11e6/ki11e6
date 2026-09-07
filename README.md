@@ -185,40 +185,18 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    16 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-QML                      11 mins             ████████░░░░░░░░░░░░░░░░░   31.60 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              21 mins             ███████████████░░░░░░░░░░   59.56 % 
-VS Code                  14 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (100.0%)
-
-✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 91,595 Input Tokens, 42,421 Output Tokens
-
-💵 $10.16 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 10 AI Prompts
-
-Fable                    95 lines            █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,352 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 06/09/2026 20:42:01 UTC
+ Last Updated on 07/09/2026 21:43:03 UTC
 <!--END_SECTION:waka-->
