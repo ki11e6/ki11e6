@@ -175,9 +175,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C743%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C744%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,36 +185,38 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 mins              █████████████████████████   100.00 % 
+Python                   51 mins             ███████████████████████░░   92.39 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-Claude Code              1 min               ██████████████░░░░░░░░░░░   56.66 % 
-VS Code                  1 min               ███████████░░░░░░░░░░░░░░   43.34 % 
+VS Code                  35 mins             ████████████████░░░░░░░░░   63.16 % 
+Claude Code              20 mins             █████████░░░░░░░░░░░░░░░░   36.84 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (100.0%)
+⏱ AI Coding Time: 25 mins (46.35%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 578 lines written by AI, 451 lines written by hand (56.17% AI-written)
 
-🔤 28,837 Input Tokens, 4,553 Output Tokens
+🔤 121,559 Input Tokens, 17,748 Output Tokens
 
-💵 $0.84 Estimated AI Cost This Week
+💵 $2.05 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 7 AI Sessions, 17 AI Prompts
 
+Opus                     578 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 24,796 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+⚖️ Balanced with AI — 56.17% of written lines came from AI
+📚 Verbose Prompter — average 16,661 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 60.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 21:34:26 UTC
+ Last Updated on 17/09/2026 21:37:41 UTC
 <!--END_SECTION:waka-->
