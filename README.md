@@ -175,9 +175,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 ![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%206%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -185,39 +185,40 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.66 % 
-Python                   1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
-Other                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Markdown                 2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.52 % 
+Python                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.34 % 
+Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 37 mins       ███████████████████░░░░░░   75.64 % 
-VS Code                  1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+Claude Code              3 hrs 48 mins       ███████████████████░░░░░░   75.42 % 
+VS Code                  1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs (83.8%)
+⏱ AI Coding Time: 4 hrs 15 mins (84.6%)
 
 ✍️ 897 lines written by AI, 1,050 lines written by hand (46.07% AI-written)
 
-🔤 785,538 Input Tokens, 225,875 Output Tokens
+🔤 760,794 Input Tokens, 222,806 Output Tokens
 
-💵 $24.26 Estimated AI Cost This Week
+💵 $23.48 Estimated AI Cost This Week
 
 🧠 15 AI Sessions, 59 AI Prompts
 
 Opus                     877 lines           ████████████████████████░   97.66 % 
 Fable                    21 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.07% of written lines came from AI
-📚 Verbose Prompter — average 11,141 characters per prompt
+📚 Verbose Prompter — average 10,853 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 62.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 21:00:37 UTC
+ Last Updated on 21/09/2026 22:07:51 UTC
 <!--END_SECTION:waka-->
