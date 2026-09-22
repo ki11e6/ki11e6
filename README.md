@@ -185,9 +185,9 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   42.52 % 
+Markdown                 2 hrs 32 mins       █████████████░░░░░░░░░░░░   50.40 % 
 Python                   2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.34 % 
-Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 🔥 Editors: 
 Claude Code              3 hrs 48 mins       ███████████████████░░░░░░   75.42 % 
@@ -205,7 +205,7 @@ VS Code                  1 hr 14 mins        ██████░░░░░�
 
 💵 $23.48 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 59 AI Prompts
+🧠 15 AI Sessions, 63 AI Prompts
 
 Opus                     877 lines           ████████████████████████░   97.66 % 
 Fable                    21 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
@@ -214,11 +214,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.07% of written lines came from AI
-📚 Verbose Prompter — average 10,853 characters per prompt
+📚 Verbose Prompter — average 11,075 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 62.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/09/2026 22:07:51 UTC
+ Last Updated on 22/09/2026 21:35:05 UTC
 <!--END_SECTION:waka-->
