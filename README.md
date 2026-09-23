@@ -205,7 +205,7 @@ VS Code                  1 hr 14 mins        ██████░░░░░�
 
 💵 $23.48 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 63 AI Prompts
+🧠 15 AI Sessions, 55 AI Prompts
 
 Opus                     877 lines           ████████████████████████░   97.66 % 
 Fable                    21 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
@@ -214,11 +214,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 46.07% of written lines came from AI
-📚 Verbose Prompter — average 11,075 characters per prompt
+📚 Verbose Prompter — average 8,663 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 62.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 21:35:05 UTC
+ Last Updated on 23/09/2026 21:41:10 UTC
 <!--END_SECTION:waka-->
