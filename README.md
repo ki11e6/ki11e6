@@ -185,39 +185,38 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 32 mins       ███████████████░░░░░░░░░░   61.10 % 
-Python                   1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Python                   20 mins             ████████████████░░░░░░░░░   64.31 % 
+Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 29 mins       █████████████████████░░░░   83.82 % 
-VS Code                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+VS Code                  17 mins             ██████████████░░░░░░░░░░░   55.01 % 
+Claude Code              14 mins             ███████████░░░░░░░░░░░░░░   44.99 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 52 mins (93.29%)
+⏱ AI Coding Time: 23 mins (73.33%)
 
-✍️ 319 lines written by AI, 599 lines written by hand (34.75% AI-written)
+✍️ 17 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 668,072 Input Tokens, 209,611 Output Tokens
+🔤 11,690 Input Tokens, 5,742 Output Tokens
 
-💵 $22.27 Estimated AI Cost This Week
+💵 $0.31 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 48 AI Prompts
+🧠 5 AI Sessions, 17 AI Prompts
 
-Opus                     299 lines           ███████████████████████░░   93.44 % 
-Fable                    21 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Opus                     18 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 34.75% of written lines came from AI
-📚 Verbose Prompter — average 9,192 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 65.55% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 22,755 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 21:42:30 UTC
+ Last Updated on 25/09/2026 21:45:33 UTC
 <!--END_SECTION:waka-->
