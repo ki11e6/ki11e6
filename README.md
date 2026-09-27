@@ -185,38 +185,36 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   20 mins             ████████████████░░░░░░░░░   64.31 % 
-Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Markdown                 5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Python                   11 mins             █████████████████░░░░░░░░   66.44 % 
+Other                    5 mins              ████████░░░░░░░░░░░░░░░░░   33.56 % 
 
 🔥 Editors: 
-VS Code                  17 mins             ██████████████░░░░░░░░░░░   55.01 % 
-Claude Code              14 mins             ███████████░░░░░░░░░░░░░░   44.99 % 
+Claude Code              12 mins             █████████████████░░░░░░░░   68.97 % 
+VS Code                  5 mins              ████████░░░░░░░░░░░░░░░░░   31.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (73.33%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
-✍️ 17 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 11,690 Input Tokens, 5,742 Output Tokens
+🔤 4,093 Input Tokens, 1,484 Output Tokens
 
-💵 $0.31 Estimated AI Cost This Week
+💵 $0.06 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 17 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
-Opus                     18 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 22,755 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 16,738 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 21:24:13 UTC
+ Last Updated on 27/09/2026 21:31:18 UTC
 <!--END_SECTION:waka-->
