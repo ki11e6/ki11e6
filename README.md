@@ -185,36 +185,34 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 mins             █████████████████░░░░░░░░   66.44 % 
-Other                    5 mins              ████████░░░░░░░░░░░░░░░░░   33.56 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              12 mins             █████████████████░░░░░░░░   68.97 % 
-VS Code                  5 mins              ████████░░░░░░░░░░░░░░░░░   31.03 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (100.0%)
+⏱ AI Coding Time: 0 secs (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 4,093 Input Tokens, 1,484 Output Tokens
+🔤 3,140 Input Tokens, 238 Output Tokens
 
-💵 $0.06 Estimated AI Cost This Week
+💵 $0.02 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 16,738 characters per prompt
+📚 Verbose Prompter — average 33,864 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 21:31:18 UTC
+ Last Updated on 28/09/2026 23:26:40 UTC
 <!--END_SECTION:waka-->
