@@ -177,42 +177,8 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%206%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 0 secs (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 3,140 Input Tokens, 238 Output Tokens
-
-💵 $0.02 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 33,864 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%207%20mins-blue?style=flat)
 
 
- Last Updated on 28/09/2026 23:26:40 UTC
+ Last Updated on 29/09/2026 22:31:31 UTC
 <!--END_SECTION:waka-->
