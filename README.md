@@ -179,6 +179,48 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%207%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 29/09/2026 22:31:31 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Text                     1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   33.41 % 
+Markdown                 1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Bash                     1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+Python                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+
+🔥 Editors: 
+Claude Code              5 hrs 18 mins       ███████████████████████░░   92.87 % 
+VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 43 mins (100.0%)
+
+✍️ 3,491 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 4,098,848 Input Tokens, 765,569 Output Tokens
+
+💵 $70.73 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 35 AI Prompts
+
+Opus                     2,367 lines         █████████████████░░░░░░░░   67.80 % 
+Fable                    1,124 lines         ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,680 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 30/09/2026 22:29:57 UTC
 <!--END_SECTION:waka-->
