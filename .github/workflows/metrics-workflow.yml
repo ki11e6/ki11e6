@@ -36,3 +36,14 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # Self-hosted replacement for the github-readme-stats card (third-party instances break when their PAT expires)
+      - name: Generate Stats Card
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-stats.svg
+          user: ${{ github.repository_owner }}
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_timezone: Asia/Kolkata

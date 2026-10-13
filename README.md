@@ -136,7 +136,10 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ki11e6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/metrics-stats.svg" alt="GitHub stats: commits, pull requests, issues, stars and repositories" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ki11e6&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
