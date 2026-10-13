@@ -163,7 +163,8 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ki11e6/ki11e6/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ki11e6&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS)
+<!-- hits.sh instead of komarev: GitHub's camo proxy refuses komarev.com. extraCount carries over komarev's 2,846 views. -->
+![Profile Views](https://hits.sh/github.com/ki11e6.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c1&extraCount=2846)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2036%20mins-blue?style=flat)
