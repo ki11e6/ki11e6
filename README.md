@@ -185,18 +185,42 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 hrs 6 mins       ██████████████████░░░░░░░   71.08 % 
+Other                    3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+QML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              16 hrs              ████████████████████████░   94.00 % 
+VS Code                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 hrs 2 mins (100.0%)
+
+✍️ 7,203 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 8,714,462 Input Tokens, 1,301,494 Output Tokens
+
+💵 $146.79 Estimated AI Cost This Week
+
+🧠 755 AI Sessions, 904 AI Prompts
+
+Opus                     6,781 lines         ███████████████████████░░   93.72 % 
+Fable                    454 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,457 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 22:19:48 UTC
+ Last Updated on 13/10/2026 00:54:59 UTC
 <!--END_SECTION:waka-->
