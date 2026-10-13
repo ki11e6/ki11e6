@@ -1,22 +1,12 @@
-# Hi 👋 I'm Sharath — Full-Stack AI Engineer
+# Hi 👋 I'm Sharath, a Full-Stack AI Engineer
 
-## Shipping Production AI Systems & Scalable Web Applications
+![Animated typing: Building production AI systems that scale](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=36BCF7&width=600&lines=Building+production+AI+systems+that+scale;RAG+%7C+LangGraph+%7C+Multi-Agent+Orchestration;Full-Stack+%7C+TypeScript+%7C+Cloud+Native)
 
-I'm a Full-Stack AI Engineer with **3.5+ years** building scalable web applications, now specializing in **production AI systems**. I design and ship AI-powered enterprise knowledge platforms for European clients — **RAG pipelines**, **LLM orchestration** with LangChain & LangGraph, and **multi-agent workflows** on a NestJS + Angular stack.
+Since December 2024 I've been building an AI knowledge platform for a European industrial client at a German software company. Most of my week goes into multi-tenant RAG pipelines on Weaviate and LangGraph multi-agent workflows, plus the Angular, Vue.js and NestJS app they live in.
 
-My foundation is the **MERN stack** and modern TypeScript ecosystems, evolved through production experience into LLM-driven architectures: vector search, agentic orchestration, and event-driven microservices. I write clean, maintainable code that solves real problems end to end.
+Before that I freelanced for two years on the MERN stack, shipping e-commerce platforms and event-driven microservices on AWS with Docker, Kubernetes and RabbitMQ. I still own features end to end, from the database schema to the Kubernetes deploy.
 
-**What I bring to teams:**
-- Production AI: RAG pipelines, LangGraph multi-agent orchestration, vector/semantic search (Weaviate)
-- Full-stack ownership from database design to Kubernetes deployment
-- Modern tooling across NestJS, Angular, Next.js, Docker, Azure & AWS
-- A pragmatic approach that balances speed with code quality
-
----
-
-### 💼 Open to Opportunities
-
-I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meaningful AI-powered products and grow with a collaborative team.
+**Open to Full-Stack / AI Engineer roles.** Based in Thiruvananthapuram, Kerala, India, and open to remote work.
 
 <p>
 <a href="https://sharaths.xyz" target="_blank"><picture><img src="https://img.shields.io/badge/Portfolio-sharaths.xyz-7C3AED?style=for-the-badge&logoColor=white" alt="My portfolio website" /></picture></a>
@@ -24,31 +14,48 @@ I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meanin
 <a href="mailto:sharath.surendran.m@gmail.com"><picture><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></picture></a>
 </p>
 
-📍 Based in Thiruvananthapuram, Kerala, India | 🌐 Open to remote opportunities
+---
+
+## 🚀 Featured Projects
+
+### 🎯 [Resume JD Tailor: Multi-Agent (Google ADK)](https://github.com/ki11e6/resume-jd-tailor) · [Live Demo ↗](https://huggingface.co/spaces/Sharath32/resume-jd-tailor)
+Multi-agent service that tailors a resume to a job description **without fabricating experience**, using a Google ADK pipeline (parallel + sequential agents, schema-enforced outputs) behind a FastAPI service with a PDF-upload web UI.\
+`Python` · `Google ADK` · `Multi-Agent` · `FastAPI` · `Gemini` · `Pydantic`
+
+### 🧠 [Multi-Agent Research Assistant: LangGraph Orchestration](https://github.com/ki11e6/langgraph-multi-agent)
+Multi-agent system that turns a single question into a researched report: four cooperating agents (Supervisor, Researcher, Writer, Reviewer) as nodes in a stateful `StateGraph`, with dynamic LLM-based routing, an iterative Writer–Reviewer refinement loop, and a provider-agnostic LLM layer (Groq, Gemini, OpenAI, Anthropic).\
+`Python` · `LangGraph` · `LangChain` · `Pydantic v2` · `Docker`
+
+### 📄 [PDF Chat Assistant: RAG with OCR & Visual Citations](https://github.com/ki11e6/pdf-chatbot-rag)
+Production-style RAG chatbot grounded in user PDFs (including scanned/image-only PDFs via Tesseract OCR), with **visual, verifiable citations** mapping each retrieved chunk back to bounding boxes on the source page. Semantic retrieval via Sentence-Transformers + FAISS with a TF-IDF fallback.\
+`Python` · `LangChain` · `FAISS` · `Tesseract OCR` · `PyMuPDF` · `Streamlit`
 
 ---
 
-### 🔭 Currently Working On
+## 💼 Experience
 
-- **AI Industrial Knowledge Platform** — Building an AI-powered enterprise platform (RAG + multi-agent) for a European client, on Angular, Vue.js & NestJS
-- **Production RAG pipelines** — Document ingestion, hierarchical chunking, vector embeddings & Weaviate semantic search across multiple tenants
-- **LangGraph multi-agent workflows** — Decorator-based plugin system for tool discovery and LLM-as-router sub-agent orchestration
+**Full-Stack AI Engineer** · German AI company *(industrial software)* · *Dec 2024 – Present*\
+Building an AI-powered industrial knowledge platform on Angular, Vue.js & NestJS: document ingestion with hierarchical chunking, multi-tenant Weaviate semantic search, and LangGraph multi-agent workflows with a decorator-based plugin system for tool discovery and LLM-as-router sub-agents.
+
+**MERN Developer** · Freelance / Self-Employed · *Nov 2022 – Nov 2024*\
+Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes, RabbitMQ) on AWS; cut API latency ~60% with Redis caching and Bull job processing.
 
 ---
 
-![Animated typing: Building production AI systems that scale](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=36BCF7&width=600&lines=Building+production+AI+systems+that+scale;RAG+%7C+LangGraph+%7C+Multi-Agent+Orchestration;Full-Stack+%7C+TypeScript+%7C+Cloud+Native)
-
-## 🛠️ Skills and Tools
+## 🛠️ Tech Stack
 
 <!-- Icons hosted locally for maintainability. To update sources, replace files in assets/icons/ -->
 <!-- Base URL: https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/ -->
 <!-- LAYOUT NOTE: Each row keeps all <a> tags on a single line inside <p> to prevent GitHub's markdown parser from inserting line breaks between icons. Do not reformat with newlines between <a> tags. -->
 
-### 🤖 AI & LLM Engineering
+- **Frameworks & orchestration:** LangChain · LangGraph · Multi-Agent Orchestration · Agentic AI · Model Context Protocol (MCP)
+- **Retrieval & search:** RAG Pipelines · Vector Embeddings · Semantic Search · Weaviate (Vector DB)
+- **Models & tooling:** OpenAI API · Anthropic Claude API · Prompt Engineering · SSE Streaming · Langfuse (Observability)
 
-**Frameworks & Orchestration** — LangChain · LangGraph · Multi-Agent Orchestration · Agentic AI · Model Context Protocol (MCP)
-**Retrieval & Search** — RAG Pipelines · Vector Embeddings · Semantic Search · Weaviate (Vector DB)
-**Models & Tooling** — OpenAI API · Anthropic Claude API · Prompt Engineering · SSE Streaming · Langfuse (Observability)
+<p align="left"><a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/python.svg" width="36" height="36" alt="Python" /></picture></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/typescript.svg" width="36" height="36" alt="TypeScript" /></picture></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nestjs.svg" title="NestJS" alt="NestJS" width="36" height="36"/></picture></a> <a href="https://angular.dev/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/angular.svg" width="36" height="36" alt="Angular" /></picture></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/react.svg" alt="React" width="36" height="36"/></picture></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/nextjs.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/nextjs.svg" width="36" height="36" alt="Next.js"/></picture></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/fastapi.svg" width="36" height="36" alt="FastAPI" /></picture></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/postgresql.svg" alt="PostgreSQL" width="36" height="36"/></picture></a> <a href="https://redis.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/redis.svg" width="36" height="36" alt="Redis" /></picture></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/docker.svg" width="36" height="36" alt="Docker" /></picture></a> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/kubernetes.svg" width="36" height="36" alt="Kubernetes" /></picture></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/aws.svg" title="AWS" alt="AWS" width="36" height="36"/></picture></a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/azure.svg" width="36" height="36" alt="Azure" /></picture></a></p>
+
+<details>
+<summary><b>Full toolbox</b> (languages, styling, frontend, backend, databases, infra, testing, tools)</summary>
 
 ### 🧑‍💻 Languages
 
@@ -113,29 +120,7 @@ I'm actively seeking **Full-Stack / AI Engineer roles** where I can build meanin
 </p>
 --->
 
-## 💼 Experience
-
-**Full-Stack AI Engineer** — German AI company *(industrial software)* · *Dec 2024 – Present*
-Building an AI-powered industrial knowledge platform — production RAG pipelines, LangGraph multi-agent workflows, and multi-tenant auth on Angular, Vue.js & NestJS.
-
-**MERN Developer** — Freelance / Self-Employed · *Nov 2022 – Nov 2024*
-Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes, RabbitMQ) on AWS; cut API latency ~60% with Redis caching and Bull job processing.
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 [Resume JD Tailor — Multi-Agent (Google ADK)](https://github.com/ki11e6/resume-jd-tailor) · [Live Demo ↗](https://huggingface.co/spaces/Sharath32/resume-jd-tailor)
-Multi-agent service that tailors a resume to a job description **without fabricating experience** — a Google ADK pipeline (parallel + sequential agents, schema-enforced outputs) behind a FastAPI service with a PDF-upload web UI.
-`Python` · `Google ADK` · `Multi-Agent` · `FastAPI` · `Gemini` · `Pydantic`
-
-### 🧠 [Multi-Agent Research Assistant — LangGraph Orchestration](https://github.com/ki11e6/langgraph-multi-agent)
-Multi-agent system that turns a single question into a researched report — four cooperating agents (Supervisor, Researcher, Writer, Reviewer) as nodes in a stateful `StateGraph`, with dynamic LLM-based routing, an iterative Writer–Reviewer refinement loop, and a provider-agnostic LLM layer (Groq, Gemini, OpenAI, Anthropic).
-`Python` · `LangGraph` · `LangChain` · `Pydantic v2` · `Docker`
-
-### 📄 [PDF Chat Assistant — RAG with OCR & Visual Citations](https://github.com/ki11e6/pdf-chatbot-rag)
-Production-style RAG chatbot grounded in user PDFs (including scanned/image-only PDFs via Tesseract OCR), with **visual, verifiable citations** mapping each retrieved chunk back to bounding boxes on the source page. Semantic retrieval via Sentence-Transformers + FAISS with a TF-IDF fallback.
-`Python` · `LangChain` · `FAISS` · `Tesseract OCR` · `PyMuPDF` · `Streamlit`
+</details>
 
 ---
 
@@ -143,7 +128,10 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 
 <p align="left"><a href="https://discord.com/users/cybersamurai2850" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/discord.svg" width="32" height="32" alt="Connect on Discord" /></picture></a> <a href="https://www.facebook.com/sharath.surendran.37" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/facebook.svg" width="32" height="32" alt="Follow on Facebook" /></picture></a> <a href="https://www.github.com/ki11e6" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/github.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/github.svg" width="32" height="32" alt="Follow on GitHub"/></picture></a> <a href="https://huggingface.co/Sharath32" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/huggingface.svg" width="32" height="32" alt="Follow on Hugging Face" /></picture></a> <a href="https://www.linkedin.com/in/sharath-s-001590137" target="_blank" rel="noreferrer"><picture><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/linkedin.svg" width="32" height="32" alt="Connect on LinkedIn" /></picture></a> <a href="https://www.twitter.com/7a648e8e61474a3" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/dark/twitter.svg"><img src="https://raw.githubusercontent.com/ki11e6/ki11e6/main/assets/icons/light/twitter.svg" width="32" height="32" alt="Follow on X (Twitter)"/></picture></a></p>
 
-## 📊 GitHub Metrics
+## 📊 GitHub Activity
+
+<details>
+<summary><b>Stats, contribution calendar and coding time</b> (updated daily by GitHub Actions)</summary>
 
 ### GitHub Stats
 
@@ -177,8 +165,6 @@ Production-style RAG chatbot grounded in user PDFs (including scanned/image-only
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C747%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%207%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -196,31 +182,8 @@ Claude Code              16 hrs              ███████████�
 VS Code                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 2 mins (100.0%)
-
-✍️ 7,203 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,714,462 Input Tokens, 1,301,494 Output Tokens
-
-💵 $146.79 Estimated AI Cost This Week
-
-🧠 755 AI Sessions, 904 AI Prompts
-
-Opus                     6,781 lines         ███████████████████████░░   93.72 % 
-Fable                    454 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,457 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 
  Last Updated on 13/10/2026 00:54:59 UTC
 <!--END_SECTION:waka-->
+
+</details>

@@ -36,3 +36,6 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_PROFILE_VIEWS: "False"
+          # AI-coding block ("0 lines written by hand", token cost) undercuts the profile for recruiters.
+          SHOW_AI_CODING: "False"
+          SHOW_AI_CODE_TIME: "False"
