@@ -167,7 +167,7 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 ![Profile Views](https://hits.sh/github.com/ki11e6.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c1&extraCount=2846)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C753%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -175,19 +175,20 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 11 hrs 58 mins      ████████████████░░░░░░░░░   63.38 % 
-Other                    3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Python                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-QML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown                 11 hrs 28 mins      ████████████████░░░░░░░░░   65.50 % 
+Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+QML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 57 mins      ████████████████████████░   94.99 % 
-VS Code                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Claude Code              16 hrs 31 mins      ████████████████████████░   94.24 % 
+VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 
- Last Updated on 16/10/2026 21:34:53 UTC
+ Last Updated on 17/10/2026 20:51:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
