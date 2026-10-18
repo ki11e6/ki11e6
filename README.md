@@ -167,7 +167,7 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 ![Profile Views](https://hits.sh/github.com/ki11e6.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c1&extraCount=2846)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C760%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -175,20 +175,21 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 11 hrs 28 mins      ████████████████░░░░░░░░░   65.50 % 
-Python                   2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Other                    1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-QML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   57.85 % 
+Python                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+QML                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 31 mins      ████████████████████████░   94.24 % 
-VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              15 hrs 8 mins       ███████████████████████░░   91.82 % 
+VS Code                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 17/10/2026 20:51:09 UTC
+ Last Updated on 18/10/2026 20:57:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
