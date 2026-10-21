@@ -175,21 +175,21 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 8 hrs 53 mins       ██████████████░░░░░░░░░░░   54.95 % 
-Python                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-QML                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Markdown                 11 hrs 16 mins      ███████████████░░░░░░░░░░   61.75 % 
+Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Other                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Lua                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 59 mins      ███████████████████████░░   92.65 % 
-VS Code                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Claude Code              17 hrs 11 mins      ████████████████████████░   94.10 % 
+VS Code                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 20/10/2026 21:47:49 UTC
+ Last Updated on 21/10/2026 21:54:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
