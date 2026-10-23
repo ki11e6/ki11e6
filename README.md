@@ -167,7 +167,7 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 ![Profile Views](https://hits.sh/github.com/ki11e6.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=4c1&extraCount=2846)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -175,21 +175,21 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 9 hrs 25 mins       ███████████████░░░░░░░░░░   61.47 % 
-Lua                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Bash                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Markdown                 9 hrs 10 mins       █████████████░░░░░░░░░░░░   53.35 % 
+QML                      2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Python                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 36 mins      ████████████████████████░   95.26 % 
-VS Code                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Claude Code              16 hrs 12 mins      ████████████████████████░   94.29 % 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 
- Last Updated on 22/10/2026 21:51:13 UTC
+ Last Updated on 23/10/2026 21:34:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
