@@ -169,25 +169,8 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C768%20hrs%2033%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
-QML                      2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-JavaScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-
-🔥 Editors: 
-Claude Code              9 hrs 46 mins       ████████████████████████░   97.47 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-```
-
-
- Last Updated on 25/10/2026 21:07:39 UTC
+ Last Updated on 26/10/2026 22:49:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
