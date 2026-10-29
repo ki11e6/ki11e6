@@ -175,19 +175,14 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.45 % 
-QML                      1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-JavaScript               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Other                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              5 hrs 43 mins       ████████████████████████░   95.77 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/10/2026 22:46:08 UTC
+ Last Updated on 29/10/2026 22:54:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
