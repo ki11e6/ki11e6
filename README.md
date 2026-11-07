@@ -175,19 +175,18 @@ Shipped e-commerce platforms and event-driven microservices (Docker, Kubernetes,
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 hrs 37 mins       █████████████░░░░░░░░░░░░   51.39 % 
-Other                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Bash                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-TOML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Markdown                 3 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.72 % 
+Other                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+TOML                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 51 mins      █████████████████████████   99.07 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Claude Code              7 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/11/2026 23:24:56 UTC
+ Last Updated on 07/11/2026 22:12:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
